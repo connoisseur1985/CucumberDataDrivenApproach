@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="110.304513">
+<testcase classname="Login to User Page" name="Login to User Page" time="110.304513">
+<system-out><![CDATA[Given user opens the browser and website window.............................passed
+When user clicks on signin button...........................................passed
+Then user enters username and password and logs in..........................passed
+Then login page is opened...................................................passed
+Then user clicks on my wishlists............................................passed
+Then user searches for items................................................passed
+Then user clicks on add to cart and checks out to open summary page.........passed
+Then user checks out to open address page and adds new address..............passed
+Then user enters user credentials and save..................................passed
+Then user proceeds to check out and opens shipping page.....................passed
+Then user checks out to payment and pays by wire............................passed
+Then user confirms order....................................................passed
+And browser is closed.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
